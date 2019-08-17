@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "client-tab/package.json",
+        "server-tab/package.json"
+      ]
+    }
+  }
+}
